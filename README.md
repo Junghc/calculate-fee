@@ -1,4 +1,3 @@
-# calculate-fee
 
 ## 成交手續費計算
 

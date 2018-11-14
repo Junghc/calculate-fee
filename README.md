@@ -7,3 +7,6 @@
 #### 2. 計算前後圖片變換
 #### 3. Clear按鈕清除欄位， 可重新計算
 #### 4. 按Button即收鍵盤
+
+
+![CALfee](https://github.com/Junghc/calculate-fee/blob/master/calFee.gif) 
